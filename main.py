@@ -12,3 +12,9 @@ with col2:
     content = "Hi, I am Rodrigo! I am a Python student. todo todo todo todo todo."
 
     st.info(content)
+
+content2 = """
+Below you can find some apps I have built in Python! Fell free to contact me!
+"""
+
+st.write(content2)
